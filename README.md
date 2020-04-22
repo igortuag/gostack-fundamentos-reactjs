@@ -7,8 +7,6 @@
 <p>Neste desafio deverá ser desenvolvida uma aplicação de gestao de transações, a GoFinances, para praticar tudo o que foi aprendido ate agora com React.js e Typescript, utilizando rotas e envio de arquivos por formulário.
 Esta aplicação irá se conectar com o backend do desafio 06.</p>
 
-console.log('Feito com :heart: por [Nathalia](https://www.linkedin.com/in/nathaliagomesoliveira/)'); 
-
 ## Funcionalidades da aplicação
 
 - Exibir uma listagem de todas as transações que estão cadastradas na sua API.
@@ -18,3 +16,7 @@ console.log('Feito com :heart: por [Nathalia](https://www.linkedin.com/in/nathal
 ## Layout da aplicação
 
 O layout pode ser acessado através da página do Figma, no <a href="https://www.figma.com/file/EgOhyj1Inz14dhWGVhRlhr/GoFinances?node-id=1%3A863">seguinte link</a>.
+
+
+---
+console.log('Feito com :heart: por [Nathalia](https://www.linkedin.com/in/nathaliagomesoliveira/)'); 
