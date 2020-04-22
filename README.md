@@ -5,7 +5,7 @@
 ## Sobre o desafio
 
 <p>Neste desafio deverá ser desenvolvida uma aplicação de gestao de transações, a GoFinances, para praticar tudo o que foi aprendido ate agora com React.js e Typescript, utilizando rotas e envio de arquivos por formulário.
-Esta aplicação irá se conectar com o backend do desafio 06.</p>
+Esta aplicação irá se conectar com o backend do <a href="https://github.com/nathaliacristina20/gostack-typeorm-upload">desafio 06</a>.</p>
 
 ## Funcionalidades da aplicação
 
