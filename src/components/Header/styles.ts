@@ -5,6 +5,12 @@ interface ContainerProps {
 }
 
 export const Container = styled.div<ContainerProps>`
+  .navActive {
+    font-weight: 600;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #ff872c;
+  }
+
   background: #5636d3;
   padding: 30px 0;
 

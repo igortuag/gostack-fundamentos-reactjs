@@ -81,6 +81,10 @@ export const TableContainer = styled.section`
 
       &.outcome {
         color: #e83f5b;
+
+        /* &::before {
+          content: '- ';
+        } */
       }
     }
 
